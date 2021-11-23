@@ -26,6 +26,7 @@ public class Coding7 {
 		 {
 				
 				System.out.println("NO");
+				break;
 			}
 		}
 	}
